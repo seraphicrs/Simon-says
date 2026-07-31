@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+.box
+{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20%;
+    margin:2rem;
+
+}
+.container
+{
+    display: flex;
+   
+ justify-content: center;
+ margin-bottom: 2px;
+}
+.container2
+{
+    display: flex;
+  
+ justify-content: center;
+}
+.brown
+{
+    background-color: brown;
+}
+.plum
+{
+    background-color: plum;
+}
+.bisque
+{
+    background-color: bisque;
+}
+.darkolivegreen
+{
+    background-color: darkolivegreen;
+}
+.flash
+{
+    background-color: azure;
+}
